@@ -10,7 +10,7 @@
 ⚙️ Scripts & Automation  
 
 <div align="center">
-  <img src="assets/mario.gif" alt="Mario GIF" width="200">
+  <img src="Assets/mario.gif" alt="Mario GIF">
 </div>
 
 </div>
