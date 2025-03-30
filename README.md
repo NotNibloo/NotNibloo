@@ -1,13 +1,12 @@
 
-<h1 align="center">Welcome to My GitHub</h1>
+<h1 align="center">👋 Hello, I'm nibloo!</h1>
 
 <div align="left">
 
-### About Me  
-👨‍💻 Fullstack Developer  
-🌍 Specialization in Local Hosting (Ubuntu) & Frontend  
-🛡️ Pentesting & Cybersecurity (Grayhat)  
-⚙️ Scripts & Automation  
+### 👨‍💻 About Me  
+💻 Fullstack Developer | 🛡️ Pentester & Cybersecurity (Grayhat)  
+🌍 Specializing in **Local Hosting (Ubuntu)** & **Backend**  
+
 
 <div align="center">
   <img src="Assets/mario.gif" alt="Mario GIF">
