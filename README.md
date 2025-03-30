@@ -1,11 +1,5 @@
-```
+
 <h1 align="center">Welcome to My GitHub</h1>
-
-<div align="center">
-  <img src="assets/mario.gif" alt="Mario GIF" width="200">
-</div>
-
-```
 
 <div align="left">
 
@@ -14,7 +8,6 @@
 🌍 Specialization in Local Hosting (Ubuntu) & Frontend  
 🛡️ Pentesting & Cybersecurity (Grayhat)  
 ⚙️ Scripts & Automation  
-```
 
 <div align="center">
   <img src="assets/mario.gif" alt="Mario GIF" width="200">
