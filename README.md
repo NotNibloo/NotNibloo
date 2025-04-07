@@ -23,5 +23,5 @@
 
 ### 🛠️ Tech Stacks I Know
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,mongodb,python,kali,docker,git,blender,fastapi,linux,ubuntu," alt="Tech Stacks I Know">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,mongodb,python,kali,docker,git,blender,fastapi,linux,ubuntu," alt="Tech Stacks I Know">
 </div>
