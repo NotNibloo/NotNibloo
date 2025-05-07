@@ -18,10 +18,10 @@
 
 ### 🚀 Tech Stacks I’m Currently Learning
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,arch,azure" alt="Tech Stacks I'm Learning">
+  <img src="https://skillicons.dev/icons?i=go,svelte,arch,azure" alt="Tech Stacks I'm Learning">
 </div>
 
 ### 🛠️ Tech Stacks I Know
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,mongodb,python,kali,docker,git,blender,fastapi,linux,ubuntu," alt="Tech Stacks I Know">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,mongodb,python,kali,docker,git,blender,fastapi,linux,ubuntu,discord" alt="Tech Stacks I Know">
 </div>
