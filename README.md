@@ -18,7 +18,7 @@
 
 ### 🚀 Tech Stacks I’m Currently Learning
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,svelte,arch,azure" alt="Tech Stacks I'm Learning">
+  <img src="https://skillicons.dev/icons?i=java,svelte,arch,azure" alt="Tech Stacks I'm Learning">
 </div>
 
 ### 🛠️ Tech Stacks I Know
